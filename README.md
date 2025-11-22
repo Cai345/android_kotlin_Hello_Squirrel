@@ -1,11 +1,11 @@
 # android_kotlin_Hello_Squirrel
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 4 - CodeMath
+# AND101 Project 1 - CodeMath
 
 Submitted by: **Collin Betties**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 Create a running app that introduces myself Summary
 
@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />](https://www.loom.com/share/c5ea757a63da4afe8158f518902d22cf)
 
 GIF created with **your chosen GIF tool**
 
